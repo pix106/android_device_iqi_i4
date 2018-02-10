@@ -1,0 +1,15 @@
+#
+# system.prop for I4Pro
+#
+
+ro.product.model=I4Pro
+ro.product.brand=AQR
+ro.product.name=I4Pro
+ro.product.device=I4Pro
+ro.product.board=MT6580
+ro.product.custname=AQR I4 Pro
+ro.product.manufacturer=AQR
+
+ro.board.platform=mt6580
+#persist.sys.timezone=Europe/Paris
+
