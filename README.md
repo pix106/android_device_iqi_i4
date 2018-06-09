@@ -3,4 +3,4 @@ Android device tree for AQR I4Pro
 
 Builds CyanogenMod 12.1
 
-State : very alpha
+State : very alpha, no launcher, a lot of work left to do
